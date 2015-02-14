@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- 마이바티스는 namespace의 값인 org.fervorseed.framework.mapper.webapp.JspSampleMapper 인터페이스를 매퍼로 연결한다. -->
+<mapper namespace="org.fervorseed.framework.mapper.webapp.JspSampleMapper">
+
+	
+</mapper>
